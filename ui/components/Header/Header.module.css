@@ -1,0 +1,51 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  backdrop-filter: saturate(180%) blur(8px);
+  background: color-mix(in oklab, var(--bg) 85%, transparent);
+  border-bottom: 1px solid var(--border);
+}
+
+.row {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 12px;
+  height: 60px;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 700;
+  color: var(--text);
+}
+.logo { font-size: 20px; }
+
+.nav {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+}
+.link {
+  padding: 8px 10px;
+  border-radius: 10px;
+  color: var(--text);
+}
+.link:hover {
+  background: var(--card-bg);
+  box-shadow: var(--shadow);
+  border: 1px solid var(--border);
+}
+
+.toggle {
+  border: 1px solid var(--border);
+  background: var(--btn-bg);
+  color: var(--btn-text);
+  padding: 8px 12px;
+  border-radius: 12px;
+  cursor: pointer;
+}

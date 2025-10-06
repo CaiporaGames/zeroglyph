@@ -6,9 +6,9 @@
   gap: 16px;
 }
 .next {
-  border: 1px solid rgba(0,0,0,0.1);
-  background: #0d0f13;
-  color: #fff;
+  border: 1px solid var(--border);
+  background: var(--btn-bg);
+  color: var(--btn-text);
   padding: 10px 14px;
   border-radius: 12px;
   cursor: pointer;
@@ -19,13 +19,14 @@
   display: flex; gap: 8px; padding: 0; margin: 0;
 }
 .pageBtn {
-  border: 1px solid rgba(0,0,0,0.1);
-  background: #fff;
+  border: 1px solid var(--border);
+  background: var(--card-bg);
+  color: var(--text);
   padding: 8px 12px;
   border-radius: 10px;
   cursor: pointer;
 }
 .active {
-  background: #111827;
+  background: var(--accent);
   color: #fff;
 }

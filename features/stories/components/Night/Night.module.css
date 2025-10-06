@@ -1,18 +1,21 @@
 .night {
   padding: 24px;
-  border: 1px solid rgba(0,0,0,0.06);
+  border: 1px solid var(--border);
   border-radius: 16px;
   margin: 16px 0;
-  background: #fff;
+  background: var(--card-bg);
+  box-shadow: var(--shadow);
 }
 .title {
   margin: 0 0 8px 0;
   font-size: 22px;
   line-height: 1.25;
+  color: var(--text);
 }
 .body :global(p) { margin: 8px 0; }
 .body :global(blockquote) {
   margin: 12px 0;
   padding-left: 12px;
-  border-left: 3px solid #222;
+  border-left: 3px solid var(--text);
+  opacity: 0.9;
 }

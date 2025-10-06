@@ -1,0 +1,46 @@
+/* Base tokens */
+:root {
+  --bg: #fafafa;
+  --text: #111827;
+  --muted: #6b7280;
+  --card-bg: #ffffff;
+  --border: rgba(17, 24, 39, 0.08);
+  --shadow: 0 4px 20px rgba(0,0,0,0.06);
+
+  --btn-bg: #0d0f13;
+  --btn-text: #ffffff;
+
+  --accent: #111827;
+}
+
+:root[data-theme="dark"] {
+  --bg: #0b0d10;
+  --text: #e5e7eb;
+  --muted: #9ca3af;
+  --card-bg: #12151b;
+  --border: rgba(255,255,255,0.12);
+  --shadow: 0 6px 24px rgba(0,0,0,0.5);
+
+  --btn-bg: #e5e7eb;
+  --btn-text: #0b0d10;
+
+  --accent: #e5e7eb;
+}
+
+/* Page chrome */
+html, body {
+  padding: 0;
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+/* Utilities */
+.container {
+  max-width: 900px;
+  margin: 24px auto;
+  padding: 0 16px;
+}
+
+a { color: inherit; text-decoration: none; }

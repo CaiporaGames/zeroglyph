@@ -9,7 +9,8 @@ export type StoryCardProps = {
   emoji?: string;
 };
 
-export default function StoryCard({ slug, title, tagline, emoji }: StoryCardProps) {
+export default function StoryCard({ slug, title, tagline, emoji }: StoryCardProps) 
+{
   return (
     <Link href={`/stories/${slug}`} className={styles.card}>
       <div className={styles.emoji}>{emoji ?? "📘"}</div>
