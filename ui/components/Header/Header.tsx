@@ -12,7 +12,7 @@ export default function Header() {
         <div className={styles.row}>
           <Link href="/" className={styles.brand}>
             <span className={styles.logo}>🔭</span>
-            <span>Math Stories</span>
+            <span>Zeroglyph</span>
           </Link>
 
           <nav className={styles.nav}>

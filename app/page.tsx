@@ -15,7 +15,7 @@ function HomeInner() {
 
   return (
     <main style={{ maxWidth: 900, margin: "24px auto", padding: 16 }}>
-      <h1 style={{ marginTop: 0, fontSize: 34 }}>Math Stories</h1>
+      <h1 style={{ marginTop: 0, fontSize: 34 }}>Zeroglyph: Math Stories</h1>
       <p style={{ opacity: 0.7, marginTop: 4 }}>Foundations told by firelight.</p>
 
       <div style={{ display: "grid", gap: 12, marginTop: 16 }}>

@@ -1,14 +1,22 @@
-import * as React from "react";
 import { DepsProvider } from "@/config/DepsContext";
-import StoryRouteClient from "./StoryRouteClient"; // client component below
+import StoryRouteClient from "./StoryRouteClient";
+import { storiesIndex } from "@/data/stories";
 
-// In Next latest, `params` is a Promise. Unwrap with React.use (or await).
-export default function Page({
+// make this whole route static
+export const dynamic = "force-static";
+export const dynamicParams = false;
+
+// pre-generate every story page
+export function generateStaticParams() {
+  return storiesIndex.map(({ slug }) => ({ slug }));
+}
+
+export default async function Page({
   params,
 }: {
   params: Promise<{ slug: string }>;
 }) {
-  const { slug } = React.use(params); // ✅ unwrap the promise
+  const { slug } = await params; // ✅ works in export
   return (
     <DepsProvider>
       <StoryRouteClient slug={slug} />

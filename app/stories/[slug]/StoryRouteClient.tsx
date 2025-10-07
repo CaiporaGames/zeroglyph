@@ -6,14 +6,24 @@ import { useDeps } from "@/config/DepsContext";
 import StoryPage from "@/features/stories/pages/StoryPage/StoryPage";
 import type { Story } from "@/domain/stories";
 
-export default function StoryRouteClient({ slug }: { slug: string }) {
-  const sp = useSearchParams();
-  const page = Number(sp.get("page") || "1");
+type Props = {
+  slug: string;
+};
+
+export default function StoryRouteClient({ slug }: Props) {
+  const searchParams = useSearchParams();
+  const page = Number(searchParams.get("page") || "1");
   const { stories } = useDeps();
   const [story, setStory] = useState<Story | null>(null);
 
   useEffect(() => {
-    stories.getStory(slug).then(setStory);
+    let isMounted = true;
+    stories.getStory(slug).then((data) => {
+      if (isMounted) setStory(data);
+    });
+    return () => {
+      isMounted = false;
+    };
   }, [slug, stories]);
 
   if (!story) {

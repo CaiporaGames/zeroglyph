@@ -3,7 +3,7 @@ import Header from "@/ui/components/Header/Header";
 import { ThemeProvider } from "@/ui/theme/ThemeProvider";
 
 export const metadata = {
-  title: "Math Stories",
+  title: "Zeroglyph: Math Stories",
   description: "Orlan & Taro’s cave nights",
 };
 
