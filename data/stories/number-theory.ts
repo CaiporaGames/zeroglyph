@@ -1,6 +1,7 @@
 import type { Story } from "@/domain/stories";
 
-export const numberTheory: Story = {
+export const numberTheory: Story =
+{
   slug: "number-theory",
   title: "Number Theory",
   tagline: "Tally before symbols. Marks before numbers.",
