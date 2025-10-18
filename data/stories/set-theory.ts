@@ -12,8 +12,8 @@ export const setTheory: Story = {
       contentMd: `
 We are going to a time *before scrolls and symbols, before numbers and names, there were berries, baskets, and piles. In a quiet cave lit by fire and thoughts, we meet a merchant and his son began to ask: what makes a pile a pile? What truths hide in the baskets we build?*
 
-🧔 **Orlan** – the elder merchant, keeper of trade and tales  
-🧒 **Taro** – his son, bright-eyed, sorting berries by moonlight
+**🧔 Orlan** – the elder merchant, keeper of trade and tales  
+**🧒 Taro** – his son, bright-eyed, sorting berries by moonlight
       `.trim(),
     },
 
@@ -21,20 +21,20 @@ We are going to a time *before scrolls and symbols, before numbers and names, th
       id: "night-1",
       title: "🌒 Night 1: The Pile That Eats Itself",
       contentMd: `
-🧒 **Taro**: “Father, I’ve been sorting berry piles all day. A pile of red berries, a pile of blue ones… and then I made a pile of all piles.”
+**🧒 Taro**: “Father, I’ve been sorting berry piles all day. A pile of red berries, a pile of blue ones… and then I made a pile of all piles.”
 
 Red pile: **🍒**  
 Blue pile: **🫐**  
 All piles: **🫐🍒**
 
-🧔 **Orlan**: “A pile of all piles? That’s clever.”
+**🧔 Orlan**: “A pile of all piles? That’s clever.”
 
-🧒 **Taro**: “But then I asked: should this pile include itself?  
+**🧒 Taro**: “But then I asked: should this pile include itself?  
 If it does, it’s just another pile.  
 If it doesn’t… then it should be in itself, because it’s a pile that doesn’t include itself!”
 
-🧔 **Orlan** *(staring into the fire)*: “That’s… troubling.”  
-🧔 **Orlan** *(rubbing his beard)*: “Let’s make some experiments…”
+**🧔 Orlan** *(staring into the fire)*: “That’s… troubling.”  
+**🧔 Orlan** *(rubbing his beard)*: “Let’s make some experiments…”
 
 ### The First Axiom: The Law of Simplicity (Foundation)
 
@@ -51,49 +51,49 @@ If it doesn’t… then it should be in itself, because it’s a pile that doesn
 - Basket D contains Basket C.  
 - Then… Taro places Basket D *inside itself.*
 
-🧒 **Taro**: “Look, Father! This basket holds itself. It’s the ultimate pile!”  
-🧔 **Orlan** *(frowning)*: “But how do we know where it begins? Or ends?”
+**🧒 Taro**: “Look, Father! This basket holds itself. It’s the ultimate pile!”  
+**🧔 Orlan** *(frowning)*: “But how do we know where it begins? Or ends?”
 
 **The Infinite Dig**
 
 *They try to inspect Basket D. But every time they look inside, they find another Basket D. It’s like a mirror reflecting itself forever.*
 
-🧒 **Taro**: “It’s like chasing a berry that keeps hiding behind itself.”
+**🧒 Taro**: “It’s like chasing a berry that keeps hiding behind itself.”
 
-🧔 **Orlan**: “That’s… troubling.”  
-🧔 **Orlan**: “Perhaps not every pile is meant to be a true pile. Some are just ideas, shadows of piles.”
+**🧔 Orlan**: “That’s… troubling.”  
+**🧔 Orlan**: “Perhaps not every pile is meant to be a true pile. Some are just ideas, shadows of piles.”
 
-🧒 **Taro**: “What do you mean?”
+**🧒 Taro**: “What do you mean?”
 
-🧔 **Orlan**: “Some piles we use to hold berries. Others are too big to contain berries and themselves. The first kind we trade. The second kind we avoid to bite our berries.”
+**🧔 Orlan**: “Some piles we use to hold berries. Others are too big to contain berries and themselves. The first kind we trade. The second kind we avoid to bite our berries.”
 
 *They begin to separate their world.*
 
 - **Set-piles**: baskets with berries, used for trade, eating and counting.  
 - **Proper piles**: Too big piles that contains everything.
 
-🧒 **Taro**: “So the pile that eats itself, it’s a proper pile. A huge pile.”
+**🧒 Taro**: “So the pile that eats itself, it’s a proper pile. A huge pile.”
 
-🧔 **Orlan**: “Exactly. And we must never let a set pile contain itself. That’s how madness begins. Let’s just set piles for now.”
+**🧔 Orlan**: “Exactly. And we must never let a set pile contain itself. That’s how madness begins. Let’s just set piles for now.”
 
-🧔 **Orlan**: “We must forbid piles from containing themselves. Every pile must be built from simpler piles. No loops. No tail-eating.”
+**🧔 Orlan**: “We must forbid piles from containing themselves. Every pile must be built from simpler piles. No loops. No tail-eating.”
 
-🧒 **Taro**: “So every berry pile must rest on something simpler. Like a crate on the cave floor.”
+**🧒 Taro**: “So every berry pile must rest on something simpler. Like a crate on the cave floor.”
 
-🧔 **Orlan** *(carving into stone)*: “Let this be our first law.”
+**🧔 Orlan** *(carving into stone)*: “Let this be our first law.”
 
 🪨 **Law I**: No pile may contain itself. Every pile must be built from simpler piles.  
 This is the **Law of Simplicity (Foundation).**
 
 *After hours of tracing loops in the dirt, Orlan and Taro finally find the flaw, the tail that eats itself. They break the circle. The paradox shatters like a cracked stone.*
 
-🧒 **Taro** *(rubbing his eyes)*: “So every pile must begin somewhere. No endless tunnels. Just crates on solid ground.”  
-🧔 **Orlan** *(nodding)*: “We’ve found the floor beneath the baskets. Now we can build.”
+**🧒 Taro** *(rubbing his eyes)*: “So every pile must begin somewhere. No endless tunnels. Just crates on solid ground.”  
+**🧔 Orlan** *(nodding)*: “We’ve found the floor beneath the baskets. Now we can build.”
 
 *🌌 The fire dims. Their diagrams fade into ash. But the law remains, etched in stone, etched in memory.*
 
-🧔 **Orlan** *(gathering the baskets)*: “Enough thinking for one night. Tomorrow we trade. Berries don’t sell themselves.”  
-🧒 **Taro** *(grinning)*: “And no pile sells itself either.”
+**🧔 Orlan** *(gathering the baskets)*: “Enough thinking for one night. Tomorrow we trade. Berries don’t sell themselves.”  
+**🧒 Taro** *(grinning)*: “And no pile sells itself either.”
 
 *They curl up beside the fire, baskets stacked neatly, minds still buzzing. The cave is quiet. But beneath its silence, a new kind of order has begun.*
       `.trim(),
@@ -105,14 +105,14 @@ This is the **Law of Simplicity (Foundation).**
       contentMd: `
 *Morning came with trade and toil. Baskets emptied, coins exchanged, and the cave echoed with footsteps. But as dusk returned, so did the questions.*
 
-🧒 **Taro**: “Father, after gathering and sorting all the empty baskets I tried to make a pile with no berries. Just to see what it looks like.”  
-🧔 **Orlan** *(raising an eyebrow)*: “No berries at all?”
+**🧒 Taro**: “Father, after gathering and sorting all the empty baskets I tried to make a pile with no berries. Just to see what it looks like.”  
+**🧔 Orlan** *(raising an eyebrow)*: “No berries at all?”
 
-🧒 **Taro**: “None. But I still marked it. Gave it a place. It felt like… something.”
+**🧒 Taro**: “None. But I still marked it. Gave it a place. It felt like… something.”
 
 *They sit by the fire again. Taro places an empty basket between them. It holds nothing but it holds space. Possibility. A shape without substance.*
 
-🧔 **Orlan** *(smiling)*: “That’s the purest pile of all.”
+**🧔 Orlan** *(smiling)*: “That’s the purest pile of all.”
 
 **🧪 Cave experiment: Ghost pile**
 
@@ -120,20 +120,20 @@ This is the **Law of Simplicity (Foundation).**
 
 ## The Second Axiom: The Empty Pile Exists
 
-🧔 **Orlan**: “Even when we have nothing, we must still have the idea of a pile. A place berries could go.”  
-🧒 **Taro**: “Like an empty basket waiting by the door.”
+**🧔 Orlan**: “Even when we have nothing, we must still have the idea of a pile. A place berries could go.”  
+**🧒 Taro**: “Like an empty basket waiting by the door.”
 
 🪨 **Law II**: There exists a pile with no berries.
 
 🧺 *The empty basket sits between them, silent but powerful. It holds no berries, yet it holds meaning. A shape. A promise. A place where something could be.*
 
-🧒 **Taro** *(tilting his head)*: “It’s strange, Father. I thought I made nothing. But it feels like I made space.”  
-🧔 **Orlan** *(nodding)*: “Space is sacred. Without it, no pile could begin. Even emptiness must be honored.”
+**🧒 Taro** *(tilting his head)*: “It’s strange, Father. I thought I made nothing. But it feels like I made space.”  
+**🧔 Orlan** *(nodding)*: “Space is sacred. Without it, no pile could begin. Even emptiness must be honored.”
 
 *🌌 They mark the basket with a charcoal ring. Not for what it holds but for what it could hold. The cave feels quieter tonight, as if the walls themselves are listening.*
 
-🧔 **Orlan** *(gathering the baskets)*: “Tomorrow we trade again. But tonight, we’ve learned that even nothing… is something.”  
-🧒 **Taro** *(smiling)*: “Then I’ll keep this basket by the door. Just in case.”
+**🧔 Orlan** *(gathering the baskets)*: “Tomorrow we trade again. But tonight, we’ve learned that even nothing… is something.”  
+**🧒 Taro** *(smiling)*: “Then I’ll keep this basket by the door. Just in case.”
 
 *🛏️ They rest. The fire dims. The empty pile waits patiently, like a cradle for future truths.*
       `.trim(),
@@ -145,10 +145,10 @@ This is the **Law of Simplicity (Foundation).**
       contentMd: `
 *🌄 The day was long. Orlan and Taro traded baskets in the village square, haggled over bruised berries, and returned with fewer coins than they hoped. But the cave was warm, and the fire was kind.*
 
-🧒 **Taro** *(sorting berries by color)*: “Father, I found two perfect ones—one red, one blue. I want to make a pile with just those.”  
-🧔 **Orlan**: “Then do it.”
+**🧒 Taro** *(sorting berries by color)*: “Father, I found two perfect ones—one red, one blue. I want to make a pile with just those.”  
+**🧔 Orlan**: “Then do it.”
 
-🧒 **Taro**: “But what if I mix them with others? How do I know which pile is just those two?”
+**🧒 Taro**: “But what if I mix them with others? How do I know which pile is just those two?”
 
 **🧪 Cave experiment: Same pile**  
 Taro prepares three baskets:
@@ -158,40 +158,40 @@ Taro prepares three baskets:
 
 **Step 1: The Swap Game**
 
-🧒 **Taro** *(grinning)*: “Father, I’ve mixed the baskets. Can you tell which ones are the same?”  
-🧔 **Orlan** *(examining)*: “Let me see…”
+**🧒 Taro** *(grinning)*: “Father, I’ve mixed the baskets. Can you tell which ones are the same?”  
+**🧔 Orlan** *(examining)*: “Let me see…”
 
 🧺 *He ignores the basket shapes. He focuses only on the berries inside.*
 
 - Basket A and Basket B: same berries, different order  
 - Basket C: has an extra green berry
 
-🧔 **Orlan**: “These two are the same. This one is different.”  
-🧒 **Taro**: “But I used a different basket for each!”  
-🧔 **Orlan**: “Doesn’t matter. A pile is its berries, not its basket. If the basket breaks and we change it, the pile is the same as before.”
+**🧔 Orlan**: “These two are the same. This one is different.”  
+**🧒 Taro**: “But I used a different basket for each!”  
+**🧔 Orlan**: “Doesn’t matter. A pile is its berries, not its basket. If the basket breaks and we change it, the pile is the same as before.”
 
 *They compare piles. They swap baskets. They realize: the identity of a pile depends only on its contents.*
 
 🪨 **Law III**: Piles are equal if they contain the same berries.  
-🧔 **Orlan**: “Two piles are the same if they hold the same berries. Not by name, not by shape, only by what’s inside.”  
-🧒 **Taro**: “So even if I use a different basket, it’s the same pile if the berries match. Piles Are Defined by their Berries.”
+**🧔 Orlan**: “Two piles are the same if they hold the same berries. Not by name, not by shape, only by what’s inside.”  
+**🧒 Taro**: “So even if I use a different basket, it’s the same pile if the berries match. Piles Are Defined by their Berries.”
 
 *The cave is quiet. The baskets are still. But something has shifted. Identity is no longer a mystery, it’s a matter of essence.*
 
-🧒 **Taro** *(placing two matching piles side by side)*: “They look different. But they feel the same.”  
-🧔 **Orlan** *(smiling)*: “Because they are. The truth isn’t in the basket, it’s in the berries.”
+**🧒 Taro** *(placing two matching piles side by side)*: “They look different. But they feel the same.”  
+**🧔 Orlan** *(smiling)*: “Because they are. The truth isn’t in the basket, it’s in the berries.”
 
 *🌌 They mark the law in charcoal beside the others. Three truths now carved into stone. Three stories born from firelight and confusion.*
 
-🧔 **Orlan** *(stacking the baskets)*: “Tomorrow we trade again. But tonight, we’ve learned how to see.”  
-🧒 **Taro** *(yawning)*: “Not by name. Not by shape. Only by what’s inside.”
+**🧔 Orlan** *(stacking the baskets)*: “Tomorrow we trade again. But tonight, we’ve learned how to see.”  
+**🧒 Taro** *(yawning)*: “Not by name. Not by shape. Only by what’s inside.”
 
 *🛏️ They rest. The fire flickers. The cave breathes. And the piles, equal in spirit, are waiting for morning.*
       `.trim(),
     },
 
     {
-      id: "night-7",
+      id: "night-4",
       title: "🌒 Night 7: The Gatherer Crate",
       contentMd: `
 *The cave smells of ripe berries and worn leather. Taro sharpens his knife while Orlan counts crates. Tomorrow’s trade will stretch across three valleys and each village wants something different.*
@@ -202,7 +202,7 @@ Taro prepares three baskets:
 - Village C wants yellow berries 🍋
 
 **🧒 Taro**: “I thought of making one big crate with all berries from all piles. Easier to carry.”  
-🧔 **Orlan**: “That’s clever. But will each village still get what they want?”
+**🧔 Orlan**: “That’s clever. But will each village still get what they want?”
 
 **🧪 Cave Experiment: The Gatherer Crate Test**
 
@@ -223,7 +223,7 @@ Now the Gatherer Crate holds: 🍓 + 🫐 + 🍋
 
 **Step 2: The Sorting Challenge**
 
-🧔 **Orlan**: “Now prove each village still gets what it asked for.”
+**🧔 Orlan**: “Now prove each village still gets what it asked for.”
 
 *They place three empty baskets back on the ground, labeled A, B, and C again.  
 Taro reaches into the Gatherer Crate and pulls out berries one by one.  
@@ -261,7 +261,7 @@ They built a truth table:
 </tbody>
 </table>
 
-**Orlan**: “No berry appears in the Gatherer unless it was in one of the original piles.”
+**🧔 Orlan**: “No berry appears in the Gatherer unless it was in one of the original piles.”
 
 ### ✅ Proof by Direct Reasoning
 
@@ -298,7 +298,7 @@ You’ve turned a foundational concept into a tactile ritual. Want to create a c
     },
 
     {
-      id: "night-8",
+      id: "night-5",
       title: "🌒 Night 8: The Berry Ledger and Power Piles",
       contentMd: `
 *🌄 The cave is quiet, but the market buzz still echoes in Taro’s thoughts. He sits cross-legged, staring at a small pile of red berries. Trade is growing complex. Villages want options. Combinations. Possibilities.*
@@ -431,7 +431,7 @@ They invent proof styles:
     },
 
     {
-      id: "night-9",
+      id: "night-6",
       title: "🌒 Night 9: The Forbidden Berry",
       contentMd: `
 *A mixed crate sits by the fire, its contents uncertain. Thornroot asked for red and yellow—but no blue. Tonight, Taro and Orlan will sort by rule, testing a quiet idea: that filtering never grows a pile, only trims it down.*
@@ -448,7 +448,7 @@ They sit beside the fire, sorting berries one by one. Taro begins separating the
 
 They built the **Thornroot Filtered Crate**.
 
-**Orlan**: “Taro, this sorting red, yellow, no blue—it’s more than habit.”  
+**🧔 Orlan**: “Taro, this sorting red, yellow, no blue—it’s more than habit.”  
 **🧒 Taro**: “It’s a rule. One we follow every night.”  
 **🧔 Orlan**: “Then let’s carve it. If it holds, it becomes law.”
 
@@ -457,7 +457,7 @@ From any pile, you can build a new pile by selecting berries that follow a rule.
 
 They call it the “Filter Ritual.” Apprentices chant: “If it fits, it stays. If not, it goes.”
 
-**Taro**: “Father, I think the filtered crate is never bigger than the original.”  
+**🧒 Taro**: “Father, I think the filtered crate is never bigger than the original.”  
 **🧔 Orlan**: “Filtering a pile by a rule always gives a smaller or equal pile?”  
 **🧔 Orlan**: “Let’s test it.”
 
@@ -510,16 +510,16 @@ Taro tried:
     },
 
     {
-      id: "night-10",
+      id: "night-7",
       title: "🌒 Night 10: The Berry Alchemist",
       contentMd: `
 *The cave smells of dye and steam. Taro stirs a pot of crushed blue berries while Orlan inspects the drying racks. Trade is shifting, Emberroot no longer wants raw color. They ask for change. For proof of transformation.*
 
 *Outside, the market sleeps. Inside, the fire flickers against stone carvings and stained crates. Tonight, they won’t just sort they’ll reshape. And in the quiet between trades, a new kind of proof will emerge.*
 
-**Taro**: “Father, the village of Emberroot wants red berries but they’ll only accept berries that were once blue.”  
-**Orlan**: “So they want transformed berries?”  
-**Taro**: “Yes. I must take blue berries and turn them red.”
+**🧒 Taro**: “Father, the village of Emberroot wants red berries but they’ll only accept berries that were once blue.”  
+**🧔 Orlan**: “So they want transformed berries?”  
+**🧒 Taro**: “Yes. I must take blue berries and turn them red.”
 
 Taro experiment:
 - 🫐 → 🍓  
@@ -528,22 +528,22 @@ Taro experiment:
 
 They build a new pile: the **Transformed Crate**.
 
-**Orlan**: “So you used a rule: ‘Turn blue into red.’ And every berry followed it.”  
-**Taro**: “Exactly. The rule made a new pile.”  
-**Taro**: “I took the blue berries and boiled them with emberroot dye. The skins turned red.”  
-**Orlan**: “So you followed a rule: ‘Turn blue into red.’ And every berry obeyed?”  
-**Taro**: “Yes. The rule touched each berry and changed it. That’s how I built the new pile.”
+**🧔 Orlan**: “So you used a rule: ‘Turn blue into red.’ And every berry followed it.”  
+**🧒 Taro**: “Exactly. The rule made a new pile.”  
+**🧒 Taro**: “I took the blue berries and boiled them with emberroot dye. The skins turned red.”  
+**🧔 Orlan**: “So you followed a rule: ‘Turn blue into red.’ And every berry obeyed?”  
+**🧒 Taro**: “Yes. The rule touched each berry and changed it. That’s how I built the new pile.”
 
-**Orlan**: “This way we find another rule that we need to carve in stone.”
+**🧔 Orlan**: “This way we find another rule that we need to carve in stone.”
 
 **🪨 Law VII: Replacement by Rule**  
 If you apply a rule to each berry in a pile, you get a new pile.
 
 *They call it the “Alchemist’s Ritual.” Apprentices chant: “Touch, change, trade!”*
 
-**Orlan**: “So, If a berry is in the transformed crate, then it came from a blue berry?”  
-**Taro**: “I think this is true. Every red berry in the crate was once blue.”  
-**Orlan**: “Let’s test it.”
+**🧔 Orlan**: “So, If a berry is in the transformed crate, then it came from a blue berry?”  
+**🧒 Taro**: “I think this is true. Every red berry in the crate was once blue.”  
+**🧔 Orlan**: “Let’s test it.”
 
 They build a table:
 
@@ -560,9 +560,9 @@ They build a table:
 
 ### Proof by Contrapositive
 
-**Orlan**: “Let’s prove it another way. Suppose a berry is in the crate. Then it must be red. If it’s not red, it’s not in the crate.”  
-**Taro**: “So we prove the opposite: if a berry is not red, it wasn’t transformed.”  
-**Orlan**: “Exactly. That’s a contrapositive proof.”
+**🧔 Orlan**: “Let’s prove it another way. Suppose a berry is in the crate. Then it must be red. If it’s not red, it’s not in the crate.”  
+**🧒 Taro**: “So we prove the opposite: if a berry is not red, it wasn’t transformed.”  
+**🧔 Orlan**: “Exactly. That’s a contrapositive proof.”
 
 They carve a new symbol: 🔁 for contrapositive.
 
@@ -584,7 +584,7 @@ They now teach apprentices four proof styles:
 
 *Orlan and Taro now wield transformation. They understand that rules can reshape berries—and truths. They begin to see that* **logic itself** *is a tool, like a basket or a knife. Proof becomes ritual. Reason becomes culture.*
 
-**Taro** *(stacking the Transformed Crate beside the filtered ones)*: “Emberroot will see the change. Red berries, once blue—marked and true.”  
+**🧒 Taro** *(stacking the Transformed Crate beside the filtered ones)*: “Emberroot will see the change. Red berries, once blue—marked and true.”  
 **🧔 Orlan** *(carving the new symbol beside the contradiction mark)*: “And they’ll see the law. Replacement by rule. A way to build, not just sort.”
 
 *🌌 The fire dims. The Transformed Crate rests beside the truth table and the dye pot. On the wall, the new symbol 🔁 joins the others: the direct arrow, the contradiction mark, and the spiral of induction.*
@@ -594,20 +594,20 @@ They now teach apprentices four proof styles:
     },
 
     {
-      id: "night-11",
+      id: "night-8",
       title: "🌒 Night 11: The Equal Trade",
       contentMd: `
 🌌 *The cave is quiet. The fire crackles. Crates from Stonebranch sit beside the counting board, one from Taro, one from the trade. Both marked “12 berries.” But tonight, the numbers alone won’t be enough.*
 
 *Orlan sharpens the pairing knife. Taro lays out the berries. They will not sort, nor transform. They will compare. And in that simple act, berry to berry, they will step into the mystery of size, fairness, and the first whisper of infinity*
 
-**Taro**: “Father, I traded with the village of Stonebranch today. I gave them a crate of 12 berries. They gave me a crate of 12 berries.”  
-**Orlan**: “So the trade was fair?”  
-**Taro**: “I thought so. But their berries were smaller. I counted again. Still 12.”
+**🧒 Taro**: “Father, I traded with the village of Stonebranch today. I gave them a crate of 12 berries. They gave me a crate of 12 berries.”  
+**🧔 Orlan**: “So the trade was fair?”  
+**🧒 Taro**: “I thought so. But their berries were smaller. I counted again. Still 12.”
 
-**Taro** *(laying out the crates)*: “Father, here’s my crate from Stonebranch. Twelve berries. And here’s theirs, also twelve.”  
-**Orlan** *(picking up a small berry)*: “These are smaller. But the count is the same?”  
-**Taro**: “Yes. I lined them up, one to one.”
+**🧒 Taro** *(laying out the crates)*: “Father, here’s my crate from Stonebranch. Twelve berries. And here’s theirs, also twelve.”  
+**🧔 Orlan** *(picking up a small berry)*: “These are smaller. But the count is the same?”  
+**🧒 Taro**: “Yes. I lined them up, one to one.”
 
 They begin pairing:
 
@@ -624,28 +624,28 @@ They begin pairing:
 🍓 ↔ 🫐  
 🍓 ↔ 🫐
 
-**Orlan**: “No extras. No gaps. Each berry has a partner.”  
-**Taro**: “Then the piles are equal, not by type, but by match.”  
-**Orlan** *(nodding)*: “That’s the rule. Let’s carve it.”
+**🧔 Orlan**: “No extras. No gaps. Each berry has a partner.”  
+**🧒 Taro**: “Then the piles are equal, not by type, but by match.”  
+**🧔 Orlan** *(nodding)*: “That’s the rule. Let’s carve it.”
 
 **🪨 Berry Law VIII: Equal Size by Matching**  
 Two piles are equal in size if you can match each berry in one pile to exactly one in the other, with none left over.
 
 *They call it the* **Matching Ritual**. *Apprentices pair berries like dance partners, chanting: “One to one, none alone.”*
 
-**Orlan**: “Hum, if every berry in pile A has a partner in pile B, and vice versa, then the piles are equal?”  
-**Taro**: “Let’s test it.”
+**🧔 Orlan**: “Hum, if every berry in pile A has a partner in pile B, and vice versa, then the piles are equal?”  
+**🧒 Taro**: “Let’s test it.”
 
 They try:
 - Pile A: 🍓🍓🍓  
 - Pile B: 🫐🫐🫐  
 - Match: 🍓 ↔ 🫐, 🍓 ↔ 🫐, 🍓 ↔ 🫐
 
-**Orlan**: “Perfect match. Equal size.”
+**🧔 Orlan**: “Perfect match. Equal size.”
 
 ### 🔍 Proof by Direct Matching
 
-**Orlan**: “We matched each berry. No extras. That’s a direct proof.”  
+**🧔 Orlan**: “We matched each berry. No extras. That’s a direct proof.”  
 They carve a new symbol: 🧩 for matching proof.
 
 **🧒 Taro** *(placing the matched berries back into their crates)*: “Stonebranch’s berries were smaller but each one had a partner. That’s what made the trade fair.”  
@@ -658,15 +658,15 @@ They carve a new symbol: 🧩 for matching proof.
     },
 
     {
-      id: "night-12",
+      id: "night-9",
       title: "🌒 Night 12: The Endless Crate",
       contentMd: `
 *🌌 The cave is quiet. The fire crackles low. Taro returns from the back cavern, his hands stained with berry juice and wonder.*
 
 *Tonight, they will not tally. They will compare. And in doing so, they will step beyond the edge of the finite, into the strange fairness of the infinite.*
 
-**Taro**: “Father, I found a strange crate in the back cave. Every time I take a berry, another appears.”  
-**Orlan** *(eyes wide)*: “The Endless Crate…”
+**🧒 Taro**: “Father, I found a strange crate in the back cave. Every time I take a berry, another appears.”  
+**🧔 Orlan** *(eyes wide)*: “The Endless Crate…”
 
 They test it:
 - Take 1 berry → still full  
@@ -675,15 +675,15 @@ They test it:
 
 *They test it. One berry gone, still full. Ten berries gone, still full. The pile never shrinks. The counting board is useless here.*
 
-**Taro**: “It never ends.”  
-**Orlan**: “Some piles cannot be counted. But they can still be compared. This must be another law. Carve it on stone Taro.”
+**🧒 Taro**: “It never ends.”  
+**🧔 Orlan**: “Some piles cannot be counted. But they can still be compared. This must be another law. Carve it on stone Taro.”
 
 **🪨 Berry Law IX: Infinite Matching**  
 Some piles cannot be counted. But if you can match each berry in one to exactly one in another, with none left over, they are equal in size, even if infinite
 
-**Orlan**: “I thinking, the pile of even berries is the same size as the pile of all berries?”  
-**Taro**: “That can’t be. Evens are only half!”  
-**Orlan**: “Let’s try matching.”
+**🧔 Orlan**: “I thinking, the pile of even berries is the same size as the pile of all berries?”  
+**🧒 Taro**: “That can’t be. Evens are only half!”  
+**🧔 Orlan**: “Let’s try matching.”
 
 They match:
 - 1 ↔ 2  
@@ -691,10 +691,10 @@ They match:
 - 3 ↔ 6  
 - …
 
-**Taro**: “Every berry in the full pile has a partner in the even pile.”  
-**Orlan**: “And vice versa. That’s a paradox.”  
-**Taro**: “If evens were smaller, we couldn’t match them perfectly.”  
-**Orlan**: “But we did. So the assumption breaks. This is a contradiction!”
+**🧒 Taro**: “Every berry in the full pile has a partner in the even pile.”  
+**🧔 Orlan**: “And vice versa. That’s a paradox.”  
+**🧒 Taro**: “If evens were smaller, we couldn’t match them perfectly.”  
+**🧔 Orlan**: “But we did. So the assumption breaks. This is a contradiction!”
 
 They carve a new symbol: ∞ for infinite matching.
 

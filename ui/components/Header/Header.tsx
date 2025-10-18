@@ -17,7 +17,7 @@ export default function Header() {
 
           <nav className={styles.nav}>
             <Link href="/" className={styles.link}>Home</Link>
-            <Link href="/stories/set-theory" className={styles.link}>Set Theory</Link>
+            {/* <Link href="/stories/set-theory" className={styles.link}>Set Theory</Link> */}
           </nav>
 
           <button
