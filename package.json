@@ -4,7 +4,7 @@
   "private": true,
    "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build && rm -rf docs && mkdir -p docs && cp -R out/* docs/ && touch docs/.nojekyll",
+    "build": "next build && node scripts/export-to-docs.mjs",
     "start": "next start",
     "predeploy": "npm run build"
   },
